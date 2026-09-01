@@ -1,5 +1,5 @@
 {
-  "version": 4,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v4.zip",
-  "releaseNotes": "TransformX OTA update fix"
+  "version": 5,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v5.zip",
+  "releaseNotes": "OTA runtime diagnostics + Fitness verification"
 }
