@@ -1,5 +1,5 @@
 {
-  "version": 1,
-  "downloadAndroidUrl": "https://cdn.jsdelivr.net/gh/Suraj3505/transformx-ota@main/android/transformx-android-v1.zip",
-  "releaseNotes": "EvolveX OTA update"
+  "version": 2,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v2.zip",
+  "releaseNotes": "TransformX OTA update 2"
 }
