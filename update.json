@@ -1,4 +1,5 @@
 {
-  "version": 0,
-  "releaseNotes": "Base APK - no OTA update published yet"
+  "version": 1,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v1.zip",
+  "releaseNotes": "TransformX OTA update"
 }
