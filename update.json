@@ -1,5 +1,5 @@
 {
-  "version": 22,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v22.zip",
-  "releaseNotes": "OTA v22 unified fitness program and improved cardio tracking"
+  "version": 23,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v23.zip",
+  "releaseNotes": "OTA v23 keeps Workout Builder inside Fitness"
 }
