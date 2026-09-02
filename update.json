@@ -1,5 +1,5 @@
 {
-  "version": 16,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v16.zip",
-  "releaseNotes": "OTA v16 collapsible exercise guides and animation media"
+  "version": 17,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v17.zip",
+  "releaseNotes": "OTA v17 ExerciseDB catalog, workout builder integration, and OpenGym cleanup"
 }
