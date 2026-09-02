@@ -1,5 +1,5 @@
 {
-  "version": 28,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v28.zip",
-  "releaseNotes": "OTA v28 launches the date-bound 90-day FAANG career command center, evidence tracking, mock scoring and target compensation map"
+  "version": 29,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v29.zip",
+  "releaseNotes": "OTA v29 upgrades Career Today with detailed study steps, GFE/YouTube/GitHub resources, interview checks, definitions of done, and a complete 13-week/90-day roadmap"
 }
