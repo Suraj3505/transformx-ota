@@ -1,5 +1,5 @@
 {
-  "version": 14,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v14.zip",
-  "releaseNotes": "OTA v14 focused fitness training UX"
+  "version": 15,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v15.zip",
+  "releaseNotes": "OTA v15 fitness training UX with live set editing"
 }
