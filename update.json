@@ -1,5 +1,5 @@
 {
-  "version": 23,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v23.zip",
-  "releaseNotes": "OTA v23 keeps Workout Builder inside Fitness"
+  "version": 24,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v24.zip",
+  "releaseNotes": "OTA v24 stabilizes Fitness workouts, ExerciseDB, safety, steps and validation"
 }
