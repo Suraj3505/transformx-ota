@@ -1,5 +1,5 @@
 {
-  "version": 25,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v25.zip",
-  "releaseNotes": "OTA v25 adds built-in exercise images and movement animations"
+  "version": 26,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v26.zip",
+  "releaseNotes": "OTA v26 adds exercise visuals and restores daily conditioning plans"
 }
