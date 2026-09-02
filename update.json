@@ -1,5 +1,5 @@
 {
-  "version": 24,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v24.zip",
-  "releaseNotes": "OTA v24 stabilizes Fitness workouts, ExerciseDB, safety, steps and validation"
+  "version": 25,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v25.zip",
+  "releaseNotes": "OTA v25 adds built-in exercise images and movement animations"
 }
