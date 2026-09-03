@@ -1,5 +1,5 @@
 {
-  "version": 46,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v46.zip",
-  "releaseNotes": "OTA v46 pilots Growth Lesson Content Standard v2 for the first three lessons. Lessons now provide 5–7 minute foundational teaching with plain-English definitions, why the skill is difficult, step-by-step mechanics, recognition cues, worked examples that break down why responses work or fail, cross-context transfer examples, key distinctions and quick checks. AI is repositioned from deeper teaching to interactive practice and diagnosis."
+  "version": 47,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v47.zip",
+  "releaseNotes": "OTA v47 expands Growth Lesson Content Standard v2 through lessons 4–10: following conversational energy, conversation balance, response pauses, paraphrasing, remembering and following up, foundation integration, and behavioral assessment. Each lesson adds beginner-first mechanics, recognition cues, worked examples with response-by-response diagnosis, transfer contexts, key distinctions and quick checks."
 }
