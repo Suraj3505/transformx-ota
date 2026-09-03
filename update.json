@@ -1,5 +1,5 @@
 {
-  "version": 40,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v40.zip",
-  "releaseNotes": "OTA v40 introduces the EvolveX Growth preview: continuous capability sessions with plain-English lessons, Bad/Better/Overdone examples, AI practice prompts, real-world missions, reflection, cultural calibration, persistent completion history, and session navigation."
+  "version": 41,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v41.zip",
+  "releaseNotes": "OTA v41 refines EvolveX Growth into a reading-first experience: wider usable reading area, larger long-form typography, reduced card chrome, editorial Bad/Better/Overdone callouts, clearer lesson hierarchy, prominent real-world missions, and a deeper AI Coach prompt that teaches skills from first principles with contextual examples and calibration."
 }
