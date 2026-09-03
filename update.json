@@ -1,5 +1,5 @@
 {
-  "version": 39,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v39.zip",
-  "releaseNotes": "OTA v39 upgrades Career Learn with AI prompts to require live internet research before teaching, prioritize authoritative and primary sources, verify current versions and behavior, distinguish timeless fundamentals from version-specific details, cite sources with dates where relevant, and use recent job descriptions/interview reports carefully for current hiring context."
+  "version": 40,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v40.zip",
+  "releaseNotes": "OTA v40 introduces the EvolveX Growth preview: continuous capability sessions with plain-English lessons, Bad/Better/Overdone examples, AI practice prompts, real-world missions, reflection, cultural calibration, persistent completion history, and session navigation."
 }
