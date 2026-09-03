@@ -1,5 +1,5 @@
 {
-  "version": 51,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v51.zip",
-  "releaseNotes": "OTA v51 upgrades the Growth AI Coach feedback loop. Every practice attempt now receives explicit diagnosis of what was good, what went wrong, missed cues, why it matters, how it may land, better reasoning, multiple improved responses and a transferable rule. The coach also tracks recurring mistake patterns and pauses to reteach genuine foundational gaps before continuing practice."
+  "version": 52,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v52.zip",
+  "releaseNotes": "OTA v52 tests the deeper Growth teaching standard with Lesson 5 — Conversation Balance, and makes AI Coach feedback concise and targeted. Lesson 5 now teaches the foundation, decision process, psychology, recognition cues, worked reasoning, failure modes, multiple contexts, calibration and a foundation check before AI practice."
 }
