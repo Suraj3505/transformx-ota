@@ -1,5 +1,5 @@
 {
-  "version": 43,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v43.zip",
-  "releaseNotes": "OTA v43 republishes the Growth navigation improvements after fixing the React Native ScrollView TypeScript ref error. It resumes the persisted current lesson, keeps Next always visible in the reading header, adds direct lesson navigation, and resets to the top when switching lessons."
+  "version": 45,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v45.zip",
+  "releaseNotes": "OTA v45 refines Growth reader navigation with a compact top control group: Previous, Lessons, and Next are now symmetrical icon buttons, keeping the reading header clean. The Lessons picker also has reliable close controls and tap-outside dismissal."
 }
