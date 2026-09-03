@@ -1,5 +1,5 @@
 {
-  "version": 35,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v35.zip",
-  "releaseNotes": "OTA v35 adds Wealth, Gold Monthly Buy Optimizer, and Strategy Lab backtesting with multi-year walk-forward validation, monthly baseline comparisons, and purchase-timing performance metrics."
+  "version": 36,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v36.zip",
+  "releaseNotes": "OTA v36 improves Gold logging with custom decimal gram input in addition to 1g, 5g and 10g quick picks, plus the latest Gold decision-context improvements."
 }
