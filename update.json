@@ -1,5 +1,5 @@
 {
-  "version": 38,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v38.zip",
-  "releaseNotes": "OTA v38 adds per-block Learn with AI prompts to Career. Each study block now generates a deep tutor + practice + interview prompt tailored to its track, topic, day, week and time budget, with selectable text and Share/copy support. Curriculum remains unchanged."
+  "version": 39,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v39.zip",
+  "releaseNotes": "OTA v39 upgrades Career Learn with AI prompts to require live internet research before teaching, prioritize authoritative and primary sources, verify current versions and behavior, distinguish timeless fundamentals from version-specific details, cite sources with dates where relevant, and use recent job descriptions/interview reports carefully for current hiring context."
 }
