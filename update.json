@@ -1,5 +1,5 @@
 {
-  "version": 50,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v50.zip",
-  "releaseNotes": "OTA v50 wires Growth lessons to the EvolveX Growth Coach ChatGPT workflow: stable lesson prompts, AI practice history, optional private conversation links for reopening sessions, and explicit project guidance without relying on unsupported project deep links."
+  "version": 51,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v51.zip",
+  "releaseNotes": "OTA v51 upgrades the Growth AI Coach feedback loop. Every practice attempt now receives explicit diagnosis of what was good, what went wrong, missed cues, why it matters, how it may land, better reasoning, multiple improved responses and a transferable rule. The coach also tracks recurring mistake patterns and pauses to reteach genuine foundational gaps before continuing practice."
 }
