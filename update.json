@@ -1,5 +1,5 @@
 {
-  "version": 41,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v41.zip",
-  "releaseNotes": "OTA v41 refines EvolveX Growth into a reading-first experience: wider usable reading area, larger long-form typography, reduced card chrome, editorial Bad/Better/Overdone callouts, clearer lesson hierarchy, prominent real-world missions, and a deeper AI Coach prompt that teaches skills from first principles with contextual examples and calibration."
+  "version": 43,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v43.zip",
+  "releaseNotes": "OTA v43 republishes the Growth navigation improvements after fixing the React Native ScrollView TypeScript ref error. It resumes the persisted current lesson, keeps Next always visible in the reading header, adds direct lesson navigation, and resets to the top when switching lessons."
 }
