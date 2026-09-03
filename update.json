@@ -1,5 +1,5 @@
 {
-  "version": 36,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v36.zip",
-  "releaseNotes": "OTA v36 improves Gold logging with custom decimal gram input in addition to 1g, 5g and 10g quick picks, plus the latest Gold decision-context improvements."
+  "version": 37,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v37.zip",
+  "releaseNotes": "OTA v37 redesigns Career around daily execution: clearer hierarchy, Next Up focus, progressive task details, cleaner roadmap, actionable readiness gates, larger touch targets and a simplified target-company experience. Study curriculum remains unchanged."
 }
