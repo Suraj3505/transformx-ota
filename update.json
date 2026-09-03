@@ -1,5 +1,5 @@
 {
-  "version": 49,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v49.zip",
-  "releaseNotes": "OTA v49 upgrades Story-Inviting Questions to the final Growth lesson standard: concise concept orientation, deeper beginner foundation, psychology of answer effort, autonomy and responsiveness, worked examples from travel/work/new-person contexts, question stacking, reactions vs interrogation, calibration, myth checks and AI practice handoff."
+  "version": 50,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v50.zip",
+  "releaseNotes": "OTA v50 wires Growth lessons to the EvolveX Growth Coach ChatGPT workflow: stable lesson prompts, AI practice history, optional private conversation links for reopening sessions, and explicit project guidance without relying on unsupported project deep links."
 }
