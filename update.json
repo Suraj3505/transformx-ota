@@ -1,5 +1,5 @@
 {
-  "version": 62,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v62.zip",
-  "releaseNotes": "OTA v62 applies the approved Growth reader visual system: 16px screen gutters, 28px section rhythm, full-width numbered title/subtext alignment, reduced 14px exercise padding, pale lavender Decision Labs, green strongest-move feedback, warm takeaway and mission surfaces, blue Quick Check, and no nested indentation stealing reading width."
+  "version": 63,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v63.zip",
+  "releaseNotes": "OTA v63 publishes the final Growth dark reader: dark-only Growth UI, short-title teaching lists with full-width explanation lines, corrected Decision Lab alignment and spacing, dark lavender exercise surfaces, green strongest-move feedback, amber Key Takeaway panels, emphasized amber USE IT callouts, 16px outer gutters, and preserved AI practice, mission, reflection, completion and lesson navigation."
 }
