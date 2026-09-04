@@ -1,5 +1,5 @@
 {
-  "version": 61,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v61.zip",
-  "releaseNotes": "OTA v61 rebuilds the Growth reader from scratch around the approved minimal mobile layout: one 16px page gutter, full-width lesson prose, no decorative content rail or 48px indentation, simple editorial sections, structured numbered title/subtext teaching lists, restrained exercise cards, and preserved lesson navigation, AI practice, completion, reflection and mission functionality."
+  "version": 62,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v62.zip",
+  "releaseNotes": "OTA v62 applies the approved Growth reader visual system: 16px screen gutters, 28px section rhythm, full-width numbered title/subtext alignment, reduced 14px exercise padding, pale lavender Decision Labs, green strongest-move feedback, warm takeaway and mission surfaces, blue Quick Check, and no nested indentation stealing reading width."
 }
