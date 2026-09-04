@@ -1,5 +1,5 @@
 {
-  "version": 60,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v60.zip",
-  "releaseNotes": "OTA v60 restores comfortable Growth reading density: larger 18px lesson body text with 31px line height, stronger 18px emphasis text, 19px lead copy, larger section headings, and more breathing room throughout long-form lessons while preserving the cleaned-up Growth V3 structure."
+  "version": 61,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v61.zip",
+  "releaseNotes": "OTA v61 rebuilds the Growth reader from scratch around the approved minimal mobile layout: one 16px page gutter, full-width lesson prose, no decorative content rail or 48px indentation, simple editorial sections, structured numbered title/subtext teaching lists, restrained exercise cards, and preserved lesson navigation, AI practice, completion, reflection and mission functionality."
 }
