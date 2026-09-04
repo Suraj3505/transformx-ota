@@ -1,5 +1,5 @@
 {
-  "version": 65,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v65.zip",
-  "releaseNotes": "OTA v65 fixes Growth Quick Check alignment: A/B/C markers now sit on their own compact line, option text uses the full card width below, Quick Check padding is tightened, and the existing dark reader, sticky lesson navigation, Decision Lab, Myth/Reality, and USE IT styling remain unchanged."
+  "version": 66,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v66.zip",
+  "releaseNotes": "OTA v66 improves Growth AI coaching progression: practice now moves through recognition, guided attempts, coached conversation, independent conversation, then assessment; difficulty stays grounded in the current lesson and steps back to coaching when the learner struggles."
 }
