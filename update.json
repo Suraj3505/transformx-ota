@@ -1,5 +1,5 @@
 {
-  "version": 55,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v55.zip",
-  "releaseNotes": "OTA v55 polishes EvolveX Growth UI/UX V2 typography. Roboto is now explicit in the shared EvolveX typography system so reusable UI text no longer relies on implicit platform defaults. The V2 spacing audit keeps the reader on a consistent 16px horizontal gutter, 24–26px section rhythm, 12–16px card padding and 8–15px internal gaps to preserve long-form readability without excessive visual fragmentation."
+  "version": 56,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v56.zip",
+  "releaseNotes": "OTA v56 switches Growth to the editorial reading direction: Source Serif 4 for lesson reading, Roboto for UI, narrower section rails, open concept and psychology sections, lighter metadata and blueprint treatment, and title-plus-body layouts for decision steps and recognition signals. Interactive surfaces such as Decision Labs, Quick Check, AI Practice and missions remain intentionally contained."
 }
