@@ -1,5 +1,5 @@
 {
-  "version": 63,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v63.zip",
-  "releaseNotes": "OTA v63 publishes the final Growth dark reader: dark-only Growth UI, short-title teaching lists with full-width explanation lines, corrected Decision Lab alignment and spacing, dark lavender exercise surfaces, green strongest-move feedback, amber Key Takeaway panels, emphasized amber USE IT callouts, 16px outer gutters, and preserved AI practice, mission, reflection, completion and lesson navigation."
+  "version": 64,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v64.zip",
+  "releaseNotes": "OTA v64 finalizes Growth reader polish: pure-black reading background, compact header, persistent Previous/Next navigation, full-width Decision Lab option content, compact Strongest Move icon-label spacing, and tightened Myth/Reality grouping."
 }
