@@ -1,5 +1,5 @@
 {
-  "version": 59,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v59.zip",
-  "releaseNotes": "OTA v59 publishes the Growth V3 editorial reader cleanup: dedicated title-and-body hierarchy for decision steps, recognition signals and calibration; sentence-case Source Serif teaching titles; flatter Decision Labs with one exercise container instead of nested cards; denser reading typography; preserved AI practice, history, real-world application and lesson navigation; removal of the superseded V2 reader; and the obsolete V2 build transform removed from the OTA pipeline."
+  "version": 60,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v60.zip",
+  "releaseNotes": "OTA v60 restores comfortable Growth reading density: larger 18px lesson body text with 31px line height, stronger 18px emphasis text, 19px lead copy, larger section headings, and more breathing room throughout long-form lessons while preserving the cleaned-up Growth V3 structure."
 }
