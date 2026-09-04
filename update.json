@@ -1,5 +1,5 @@
 {
-  "version": 56,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v56.zip",
-  "releaseNotes": "OTA v56 switches Growth to the editorial reading direction: Source Serif 4 for lesson reading, Roboto for UI, narrower section rails, open concept and psychology sections, lighter metadata and blueprint treatment, and title-plus-body layouts for decision steps and recognition signals. Interactive surfaces such as Decision Labs, Quick Check, AI Practice and missions remain intentionally contained."
+  "version": 57,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v57.zip",
+  "releaseNotes": "OTA v57 publishes the verified Growth editorial reader with Source Serif 4 reading typography, Roboto UI typography, open teaching sections, reduced card usage, narrower section rails, and clearer title-plus-body learning hierarchy."
 }
