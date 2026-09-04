@@ -1,5 +1,5 @@
 {
-  "version": 66,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v66.zip",
-  "releaseNotes": "OTA v66 improves Growth AI coaching progression: practice now moves through recognition, guided attempts, coached conversation, independent conversation, then assessment; difficulty stays grounded in the current lesson and steps back to coaching when the learner struggles."
+  "version": 68,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v68.zip",
+  "releaseNotes": "OTA v68 includes the Growth AI Coach session-closure fixes and final-standard Lesson 6 Response Pause teaching content."
 }
