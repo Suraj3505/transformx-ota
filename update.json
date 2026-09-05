@@ -1,5 +1,5 @@
 {
-  "version": 71,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v71.zip",
-  "releaseNotes": "OTA v71 adds the Growth Home with lesson and Review-5 navigation, locked/completed curriculum states, and a user-visible EvolveX roadmap."
+  "version": 72,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v72.zip",
+  "releaseNotes": "OTA v72 publishes the Growth curriculum architecture cleanup, activates the simple-English Lessons 1–6, keeps existing lesson IDs and progress compatible, and includes the ChatGPT link save fix."
 }
