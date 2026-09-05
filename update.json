@@ -1,5 +1,5 @@
 {
-  "version": 70,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v70.zip",
-  "releaseNotes": "OTA v70 finalizes Growth Lessons 1–4 teaching depth, preserves access to completed lessons while Review-5 gates future progression, and expands the canonical curriculum with Women, Attraction & Relationship Psychology."
+  "version": 71,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v71.zip",
+  "releaseNotes": "OTA v71 adds the Growth Home with lesson and Review-5 navigation, locked/completed curriculum states, and a user-visible EvolveX roadmap."
 }
