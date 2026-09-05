@@ -1,5 +1,5 @@
 {
-  "version": 69,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v69.zip",
-  "releaseNotes": "OTA v69 adds the Growth Revision Engine foundation and the first Review-5 for Lessons 1–5, including mixed AI review, persisted skill ratings, and Lesson 6 progression gating."
+  "version": 70,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v70.zip",
+  "releaseNotes": "OTA v70 finalizes Growth Lessons 1–4 teaching depth, preserves access to completed lessons while Review-5 gates future progression, and expands the canonical curriculum with Women, Attraction & Relationship Psychology."
 }
