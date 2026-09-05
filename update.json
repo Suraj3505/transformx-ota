@@ -1,5 +1,5 @@
 {
-  "version": 72,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v72.zip",
-  "releaseNotes": "OTA v72 publishes the Growth curriculum architecture cleanup, activates the simple-English Lessons 1–6, keeps existing lesson IDs and progress compatible, and includes the ChatGPT link save fix."
+  "version": 73,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v73.zip",
+  "releaseNotes": "OTA v73 expands the visible EvolveX roadmap with the personal proving-ground boundary, personalized learning architecture, competency graph, practice and evaluation engine, AI learning memory, knowledge retrieval, provider-agnostic LLM work, Social Intelligence Daily, and Curiosity Daily."
 }
