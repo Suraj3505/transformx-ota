@@ -1,5 +1,5 @@
 {
-  "version": 68,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v68.zip",
-  "releaseNotes": "OTA v68 includes the Growth AI Coach session-closure fixes and final-standard Lesson 6 Response Pause teaching content."
+  "version": 69,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v69.zip",
+  "releaseNotes": "OTA v69 adds the Growth Revision Engine foundation and the first Review-5 for Lessons 1–5, including mixed AI review, persisted skill ratings, and Lesson 6 progression gating."
 }
