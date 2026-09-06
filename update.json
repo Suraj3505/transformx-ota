@@ -1,5 +1,5 @@
 {
-  "version": 76,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v76.zip",
-  "releaseNotes": "OTA v76 refactors the Social Intelligence lesson experience around the five-stage framework: Hook, Mechanism, Structure, Dynamic, and Application. The first three lessons were rewritten for deeper conceptual understanding, redundant lesson-content fields were removed, and the mobile reader now presents each stage as a structured long-form learning dossier before transfer practice, case files, evidence reveals, field experiments, and reflection."
+  "version": 77,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v77.zip",
+  "releaseNotes": "OTA v77 upgrades Social Intelligence from a structured reader into a more interactive learning experience: a stronger five-stage lesson journey, an observation-vs-interpretation opening diagnostic, improved stage navigation and visual rhythm, interactive People Case File hypothesis and confidence work, evidence-based model updating, and a persistent Field Experiment lifecycle with real-world observation capture and reflection."
 }
