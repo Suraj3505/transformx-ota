@@ -1,5 +1,5 @@
 {
-  "version": 83,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v83.zip",
-  "releaseNotes": "OTA v83 aligns the Social Intelligence lesson reader with EvolveX's shared design system: long-form lesson content now uses the centralized reader typography while interaction workspaces continue using the shared UI primitives."
+  "version": 84,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v84.zip",
+  "releaseNotes": "OTA v84 polishes the Social Intelligence lesson reader end to end with stronger lesson and stage hierarchy, improved reading rhythm, a cleaner connected Inference Ladder, refined editorial callouts, and clearer People Case File and Field Experiment workspaces."
 }
