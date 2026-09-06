@@ -1,5 +1,5 @@
 {
-  "version": 96,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v96.zip",
-  "releaseNotes": "OTA v96 improves Curiosity Daily diagram readability with higher-contrast labels and helper text, and includes the second Antibodies neutralization SVG diagram."
+  "version": 97,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v97.zip",
+  "releaseNotes": "OTA v97 adds first-class sourced image support to Curiosity Daily with attribution and licensing metadata, and upgrades the Antibodies lesson with a public-domain NIAID scientific antibody illustration alongside the custom neutralization diagram."
 }
