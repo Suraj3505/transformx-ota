@@ -1,5 +1,5 @@
 {
-  "version": 89,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v89.zip",
-  "releaseNotes": "OTA v89 adds the Curiosity curriculum browser with Worlds 1-3, visible World → Domain → Topic → Idea exploration, live curriculum counts, and the new Curiosity entry under Programs."
+  "version": 90,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v90.zip",
+  "releaseNotes": "OTA v90 completes the Curiosity canonical curriculum across Worlds 1-9 and adds the Curiosity Daily learning engine: persistent explored state, Daily Discovery, authored lesson architecture, Spectroscopy reference lesson, and real Today/Programs integration."
 }
