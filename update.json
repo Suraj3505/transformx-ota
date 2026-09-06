@@ -1,5 +1,5 @@
 {
-  "version": 74,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v74.zip",
-  "releaseNotes": "OTA v74 adds the first EvolveX Social Intelligence learning slice: the Social Perception & Calibration curriculum, the first three in-app lessons, People Case Files, Social Lenses, Field Experiments, local progress state, and ChatGPT practice prompts, with backend work intentionally deferred."
+  "version": 75,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v75.zip",
+  "releaseNotes": "OTA v75 expands Social Intelligence Lesson 1, What Did You Actually Observe?, into the reference-quality deep learning experience with richer psychology, the full inference ladder, six applied examples, stronger calibration reasoning, an upgraded Quiet Meeting Case File, and a deeper Catch the Story field experiment and Pattern Update reflection."
 }
