@@ -1,5 +1,5 @@
 {
-  "version": 92,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v92.zip",
-  "releaseNotes": "OTA v92 upgrades Curiosity Daily with the Spectroscopy-derived teaching system, richer mental models and recall blocks, linked Connections and Go Deeper exploration, tappable authored curriculum lessons, reopenable Discovery History, and hidden Curiosity scroll indicators."
+  "version": 93,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v93.zip",
+  "releaseNotes": "OTA v93 upgrades the Antibodies lesson to the reference Curiosity teaching standard with richer explanation, visual reasoning, mental models, concrete examples, progressive reveal, micro-recall and reflection, and includes the Go Deeper interaction fix."
 }
