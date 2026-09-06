@@ -1,5 +1,5 @@
 {
-  "version": 80,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v80.zip",
-  "releaseNotes": "OTA v80 upgrades the Expedition Prompt Builder with a cleaner guided UX, specific-destination or discovery modes, selectable group/transport/trip style/pace, an OTA-safe date-range calendar, flexible-month planning, richer travel preferences, and a stronger research-grade prompt for any AI."
+  "version": 81,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v81.zip",
+  "releaseNotes": "OTA v81 refines Social Intelligence lessons into a cleaner editorial dossier experience: deep teaching stays on an open reading canvas, visual models and examples use lighter inline treatments, and cards are reserved mainly for interactive workspaces such as Hook, People Case File and Field Experiment."
 }
