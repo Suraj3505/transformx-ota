@@ -1,5 +1,5 @@
 {
-  "version": 90,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v90.zip",
-  "releaseNotes": "OTA v90 completes the Curiosity canonical curriculum across Worlds 1-9 and adds the Curiosity Daily learning engine: persistent explored state, Daily Discovery, authored lesson architecture, Spectroscopy reference lesson, and real Today/Programs integration."
+  "version": 91,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v91.zip",
+  "releaseNotes": "OTA v91 expands Curiosity Daily with a 27-lesson authored V1 library across all 9 Worlds, smarter world-balanced unexplored lesson selection, stable daily assignment, and updated complete curriculum status."
 }
