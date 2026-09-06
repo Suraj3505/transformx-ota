@@ -1,5 +1,5 @@
 {
-  "version": 88,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v88.zip",
-  "releaseNotes": "OTA v88 expands the Growth curriculum view from authored lessons to the full agreed Growth roadmap, keeping planned domains visible alongside authored content and aligning curriculum discoverability across Growth and Social Intelligence."
+  "version": 89,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v89.zip",
+  "releaseNotes": "OTA v89 adds the Curiosity curriculum browser with Worlds 1-3, visible World → Domain → Topic → Idea exploration, live curriculum counts, and the new Curiosity entry under Programs."
 }
