@@ -1,5 +1,5 @@
 {
-  "version": 84,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v84.zip",
-  "releaseNotes": "OTA v84 polishes the Social Intelligence lesson reader end to end with stronger lesson and stage hierarchy, improved reading rhythm, a cleaner connected Inference Ladder, refined editorial callouts, and clearer People Case File and Field Experiment workspaces."
+  "version": 85,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v85.zip",
+  "releaseNotes": "OTA v85 completes the SI-01 Social Perception & Calibration learning sequence by adding fully authored lessons 04–10: Context Changes Meaning, State Trait or Strategy, Signal vs Noise, Competing Hypotheses, Evidence Quality, Confidence Calibration, and the Calibration Lab."
 }
