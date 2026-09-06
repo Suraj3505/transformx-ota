@@ -1,5 +1,5 @@
 {
-  "version": 77,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v77.zip",
-  "releaseNotes": "OTA v77 upgrades Social Intelligence from a structured reader into a more interactive learning experience: a stronger five-stage lesson journey, an observation-vs-interpretation opening diagnostic, improved stage navigation and visual rhythm, interactive People Case File hypothesis and confidence work, evidence-based model updating, and a persistent Field Experiment lifecycle with real-world observation capture and reflection."
+  "version": 78,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v78.zip",
+  "releaseNotes": "OTA v78 adds the Travel Prompt Builder in Library: enter trip context, generate an improved Explorer's Mindset travel-planning prompt, preview it, and share it with any AI app."
 }
