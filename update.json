@@ -1,5 +1,5 @@
 {
-  "version": 82,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v82.zip",
-  "releaseNotes": "OTA v82 refines the Social Intelligence lesson hierarchy: each teaching stage now opens with a compact numbered stage label such as 01 · HOOK, followed by the stage title and orientation, and the interactive Hook experience sits inside the Hook stage itself."
+  "version": 83,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v83.zip",
+  "releaseNotes": "OTA v83 aligns the Social Intelligence lesson reader with EvolveX's shared design system: long-form lesson content now uses the centralized reader typography while interaction workspaces continue using the shared UI primitives."
 }
