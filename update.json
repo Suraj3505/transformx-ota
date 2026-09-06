@@ -1,5 +1,5 @@
 {
-  "version": 87,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v87.zip",
-  "releaseNotes": "OTA v87 exposes the complete Social Intelligence curriculum map in-app, including all agreed sections, domains and canonical/planned topics, while clearly separating authored SI-01 lessons from future curriculum content and making the full-curriculum entry easier to find."
+  "version": 88,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v88.zip",
+  "releaseNotes": "OTA v88 expands the Growth curriculum view from authored lessons to the full agreed Growth roadmap, keeping planned domains visible alongside authored content and aligning curriculum discoverability across Growth and Social Intelligence."
 }
