@@ -1,5 +1,5 @@
 {
-  "version": 95,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v95.zip",
-  "releaseNotes": "OTA v95 adds EvolveX Growth Game Lab V1: L1 Attractive Conversation, realistic friend-of-friend/cafe/travel scenarios, a calibrated ChatGPT practice loop, and persisted Game Lab reflections without changing the Growth curriculum."
+  "version": 96,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v96.zip",
+  "releaseNotes": "OTA v96 improves Curiosity Daily diagram readability with higher-contrast labels and helper text, and includes the second Antibodies neutralization SVG diagram."
 }
