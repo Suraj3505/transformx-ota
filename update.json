@@ -1,5 +1,5 @@
 {
-  "version": 81,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v81.zip",
-  "releaseNotes": "OTA v81 refines Social Intelligence lessons into a cleaner editorial dossier experience: deep teaching stays on an open reading canvas, visual models and examples use lighter inline treatments, and cards are reserved mainly for interactive workspaces such as Hook, People Case File and Field Experiment."
+  "version": 82,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v82.zip",
+  "releaseNotes": "OTA v82 refines the Social Intelligence lesson hierarchy: each teaching stage now opens with a compact numbered stage label such as 01 · HOOK, followed by the stage title and orientation, and the interactive Hook experience sits inside the Hook stage itself."
 }
