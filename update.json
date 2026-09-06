@@ -1,5 +1,5 @@
 {
-  "version": 93,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v93.zip",
-  "releaseNotes": "OTA v93 upgrades the Antibodies lesson to the reference Curiosity teaching standard with richer explanation, visual reasoning, mental models, concrete examples, progressive reveal, micro-recall and reflection, and includes the Go Deeper interaction fix."
+  "version": 94,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v94.zip",
+  "releaseNotes": "OTA v94 adds first-class diagram support to Curiosity Daily and upgrades the Antibodies reference lesson with an actual antibody anatomy diagram and a visual neutralization process diagram."
 }
