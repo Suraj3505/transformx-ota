@@ -1,5 +1,5 @@
 {
-  "version": 109,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v109.zip",
-  "releaseNotes": "OTA v109 publishes the Curiosity hero redesign with a cleaner curiosity-first opening and moves the Inertia motion explanation into the lesson as a dedicated teaching visual."
+  "version": 111,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v111.zip",
+  "releaseNotes": "OTA v111 publishes the mockup-aligned Curiosity hero with a large Voyager visual, simplified metadata and hook, including the React Native 0.87 typecheck fix."
 }
