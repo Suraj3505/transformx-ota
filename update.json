@@ -1,5 +1,5 @@
 {
-  "version": 127,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v127.zip",
-  "releaseNotes": "OTA v127 republishes the Curiosity V2 reference heroes with the type-safe hero styling fix."
+  "version": 128,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v128.zip",
+  "releaseNotes": "OTA v128 publishes the redesigned Curiosity V2 Design Lab using the locked cinematic hero system across all four gold-reference lessons."
 }
