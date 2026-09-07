@@ -1,5 +1,5 @@
 {
-  "version": 107,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v107.zip",
-  "releaseNotes": "OTA v107 publishes the new Curiosity educational hero system, including the cinematic Inertia motion visual that teaches constant velocity at zero net force and separates the Voyager image into a real-world example."
+  "version": 108,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v108.zip",
+  "releaseNotes": "OTA v108 publishes the redesigned Curiosity hero, removing the boxed Inertia diagram and replacing it with a cleaner editorial motion visual integrated directly into the lesson opening."
 }
