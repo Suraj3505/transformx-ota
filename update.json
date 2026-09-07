@@ -1,5 +1,5 @@
 {
-  "version": 116,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v116.zip",
-  "releaseNotes": "OTA v116 publishes foreground OTA checks and OTA diagnostics with the AppState typing fix required by React Native 0.87."
+  "version": 117,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v117.zip",
+  "releaseNotes": "OTA v117 publishes the latest Curiosity V2 work, including the reusable Think First interaction, Inertia educational diagram foundation, and updated Design Lab references."
 }
