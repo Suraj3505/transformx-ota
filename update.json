@@ -1,5 +1,5 @@
 {
-  "version": 119,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v119.zip",
-  "releaseNotes": "OTA v119 publishes the rebuilt Curiosity cinematic hero with SVG gradient overlays and improved image readability."
+  "version": 120,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v120.zip",
+  "releaseNotes": "OTA v120 publishes the Curiosity hero visual resolver with cached Pexels visuals and authored fallback support."
 }
