@@ -1,5 +1,5 @@
 {
-  "version": 111,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v111.zip",
-  "releaseNotes": "OTA v111 publishes the mockup-aligned Curiosity hero with a large Voyager visual, simplified metadata and hook, including the React Native 0.87 typecheck fix."
+  "version": 113,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v113.zip",
+  "releaseNotes": "OTA v113 publishes the blended cinematic Curiosity hero with the React Native 0.87 typecheck fix, plus the new EvolveX Design Lab and development quality-gate foundation."
 }
