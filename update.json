@@ -1,5 +1,5 @@
 {
-  "version": 99,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v99.zip",
-  "releaseNotes": "OTA v99 preserves each day's Curiosity lesson assignment across date changes, adds past Daily lessons to My Discovery even when unfinished, and keeps explored status separate from saved daily history."
+  "version": 100,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v100.zip",
+  "releaseNotes": "OTA v100 upgrades the Curiosity Inertia lesson to the Antibodies reference standard with richer explanation, mental models, historical context, reflection and recall, plus a sourced public-domain physics image and stronger Go Deeper connections."
 }
