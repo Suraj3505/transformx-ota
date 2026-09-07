@@ -1,5 +1,5 @@
 {
-  "version": 135,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v135.zip",
-  "releaseNotes": "OTA v135 fixes Today learning navigation so Growth recommendations open directly into the selected practice experience instead of the Growth dashboard."
+  "version": 136,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v136.zip",
+  "releaseNotes": "OTA v136 fixes Today Growth navigation to open the exact recommended authored lesson directly, instead of the Growth dashboard or Game Lab."
 }
