@@ -1,5 +1,5 @@
 {
-  "version": 106,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v106.zip",
-  "releaseNotes": "OTA v106 publishes Curiosity Daily UI V2 for device validation, including the editorial reading experience, improved teaching interactions and visuals, cleaner exploration paths, Ask Curiosity deep-dive prompts, and the TypeScript compatibility fix for visual fallback rendering."
+  "version": 107,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v107.zip",
+  "releaseNotes": "OTA v107 publishes the new Curiosity educational hero system, including the cinematic Inertia motion visual that teaches constant velocity at zero net force and separates the Voyager image into a real-world example."
 }
