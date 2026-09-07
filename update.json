@@ -1,5 +1,5 @@
 {
-  "version": 113,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v113.zip",
-  "releaseNotes": "OTA v113 publishes the blended cinematic Curiosity hero with the React Native 0.87 typecheck fix, plus the new EvolveX Design Lab and development quality-gate foundation."
+  "version": 116,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v116.zip",
+  "releaseNotes": "OTA v116 publishes foreground OTA checks and OTA diagnostics with the AppState typing fix required by React Native 0.87."
 }
