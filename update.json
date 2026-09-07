@@ -1,5 +1,5 @@
 {
-  "version": 125,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v125.zip",
-  "releaseNotes": "OTA v125 publishes the Curiosity V2 reusable reader system and four cross-domain gold-reference lessons: Inertia, Antibodies, Spectroscopy, and First Farmers."
+  "version": 127,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v127.zip",
+  "releaseNotes": "OTA v127 republishes the Curiosity V2 reference heroes with the type-safe hero styling fix."
 }
