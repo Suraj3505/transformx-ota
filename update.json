@@ -1,5 +1,5 @@
 {
-  "version": 101,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v101.zip",
-  "releaseNotes": "OTA v101 fixes the Curiosity Inertia lesson image by switching the Wikimedia asset to a direct image URL for reliable React Native rendering."
+  "version": 102,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v102.zip",
+  "releaseNotes": "OTA v102 fixes Curiosity educational image loading by correcting the Wikimedia CDN host to upload.wikimedia.org for the Inertia lesson asset."
 }
