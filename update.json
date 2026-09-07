@@ -1,5 +1,5 @@
 {
-  "version": 108,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v108.zip",
-  "releaseNotes": "OTA v108 publishes the redesigned Curiosity hero, removing the boxed Inertia diagram and replacing it with a cleaner editorial motion visual integrated directly into the lesson opening."
+  "version": 109,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v109.zip",
+  "releaseNotes": "OTA v109 publishes the Curiosity hero redesign with a cleaner curiosity-first opening and moves the Inertia motion explanation into the lesson as a dedicated teaching visual."
 }
