@@ -1,5 +1,5 @@
 {
-  "version": 103,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v103.zip",
-  "releaseNotes": "OTA v103 fixes Career progression so incomplete days no longer advance with the calendar, keeps Today aligned with the stored Career day, and locks future Career days until the current day is completed."
+  "version": 104,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v104.zip",
+  "releaseNotes": "OTA v104 updates the Curiosity Inertia lesson to use the NASA/JPL Voyager visual and includes the dedicated Inertia lesson enhancement integration."
 }
