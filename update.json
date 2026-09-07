@@ -1,5 +1,5 @@
 {
-  "version": 98,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v98.zip",
-  "releaseNotes": "OTA v98 deepens Social Intelligence SI-01.02 Facts, Inferences & Stories with clearer distinctions between observation, inference, assumption and story; worked examples; hidden-premise reasoning; emotion-versus-evidence calibration; self-reinforcing social loops; and uncertainty-aware action guidance before practice."
+  "version": 99,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v99.zip",
+  "releaseNotes": "OTA v99 preserves each day's Curiosity lesson assignment across date changes, adds past Daily lessons to My Discovery even when unfinished, and keeps explored status separate from saved daily history."
 }
