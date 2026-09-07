@@ -1,5 +1,5 @@
 {
-  "version": 132,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v132.zip",
-  "releaseNotes": "OTA v132 fixes Curiosity hero image rendering resilience across all four V2 gold references, including Pexels-first loading, authored fallbacks, safe lesson switching, and corrected attribution state."
+  "version": 133,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v133.zip",
+  "releaseNotes": "OTA v133 simplifies the learning experience around Today and Up Next while keeping Focus and the Learning Path as the underlying engine, demotes Game Lab to practice, and refreshes Social Intelligence progress when returning to Today."
 }
