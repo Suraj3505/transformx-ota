@@ -1,5 +1,5 @@
 {
-  "version": 123,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v123.zip",
-  "releaseNotes": "OTA v123 publishes the latest Curiosity reference lesson and hero visual cache refinements."
+  "version": 124,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v124.zip",
+  "releaseNotes": "OTA v124 publishes the completed Inertia gold-reference lesson with restored depth, recall, connections, sources, and completion flow."
 }
