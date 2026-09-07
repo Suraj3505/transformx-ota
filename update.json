@@ -1,5 +1,5 @@
 {
-  "version": 134,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v134.zip",
-  "releaseNotes": "OTA v134 makes Curiosity reference hero imagery deterministic: curated authoritative visuals for Voyager, antibodies, and spectroscopy, contextual Pexels only for First Farmers, with explicit source fallbacks."
+  "version": 135,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v135.zip",
+  "releaseNotes": "OTA v135 fixes Today learning navigation so Growth recommendations open directly into the selected practice experience instead of the Growth dashboard."
 }
