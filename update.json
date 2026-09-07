@@ -1,5 +1,5 @@
 {
-  "version": 100,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v100.zip",
-  "releaseNotes": "OTA v100 upgrades the Curiosity Inertia lesson to the Antibodies reference standard with richer explanation, mental models, historical context, reflection and recall, plus a sourced public-domain physics image and stronger Go Deeper connections."
+  "version": 101,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v101.zip",
+  "releaseNotes": "OTA v101 fixes the Curiosity Inertia lesson image by switching the Wikimedia asset to a direct image URL for reliable React Native rendering."
 }
