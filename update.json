@@ -1,5 +1,5 @@
 {
-  "version": 143,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v143.zip",
-  "releaseNotes": "OTA v143 switches Curiosity Daily to the canonical V2 lesson system, adds deterministic daily selection, unified discovery/history tracking, metadata-driven educational visuals, and Curiosity V2 library validation."
+  "version": 144,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v144.zip",
+  "releaseNotes": "OTA v144 fixes Social Intelligence model and ladder alignment across the canonical reader, and completes the Attraction field-mission lifecycle with retry-safe No Opportunity handling, repeated real-world attempts, reflection evidence, and mastery-aware resurfacing."
 }
