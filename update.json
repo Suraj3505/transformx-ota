@@ -1,5 +1,5 @@
 {
-  "version": 142,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v142.zip",
-  "releaseNotes": "OTA v142 unifies Social Intelligence focus and canonical lessons under one reader, fixes typography and model alignment, removes the duplicate focus reader, and includes the upgraded attraction mastery engine."
+  "version": 143,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v143.zip",
+  "releaseNotes": "OTA v143 switches Curiosity Daily to the canonical V2 lesson system, adds deterministic daily selection, unified discovery/history tracking, metadata-driven educational visuals, and Curiosity V2 library validation."
 }
