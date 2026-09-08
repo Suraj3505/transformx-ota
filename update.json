@@ -1,5 +1,5 @@
 {
-  "version": 146,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v146.zip",
-  "releaseNotes": "OTA v146 updates Growth positioning, adds the Social Intelligence dashboard with Continue and Learning Path, and introduces People Lab for applied social reasoning practice. Retried after Growth dashboard typecheck fix."
+  "version": 147,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v147.zip",
+  "releaseNotes": "OTA v147 expands Curiosity Daily V2 with 10 new exploration lessons, bringing the canonical library to 14 lessons with curated heroes, recall, mental models, connections, sources, and scalable engine validation."
 }
