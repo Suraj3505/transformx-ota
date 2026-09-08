@@ -1,5 +1,5 @@
 {
-  "version": 145,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v145.zip",
-  "releaseNotes": "OTA v145 replaces cramped Social Intelligence ladder/table layouts with sequential open-canvas models, moves Growth, Social Intelligence and Curiosity curriculum browsing into Library, and simplifies Growth Programs around the active learning path."
+  "version": 146,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v146.zip",
+  "releaseNotes": "OTA v146 updates Growth positioning, adds the Social Intelligence dashboard with Continue and Learning Path, and introduces People Lab for applied social reasoning practice. Retried after Growth dashboard typecheck fix."
 }
