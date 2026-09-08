@@ -1,5 +1,5 @@
 {
-  "version": 136,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v136.zip",
-  "releaseNotes": "OTA v136 fixes Today Growth navigation to open the exact recommended authored lesson directly, instead of the Growth dashboard or Game Lab."
+  "version": 139,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v139.zip",
+  "releaseNotes": "OTA v139 fixes the Growth progress store TypeScript failure and publishes the latest EvolveX learning, attraction-path, field mission, and Curiosity updates."
 }
