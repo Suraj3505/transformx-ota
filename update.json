@@ -1,5 +1,5 @@
 {
-  "version": 139,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v139.zip",
-  "releaseNotes": "OTA v139 fixes the Growth progress store TypeScript failure and publishes the latest EvolveX learning, attraction-path, field mission, and Curiosity updates."
+  "version": 142,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v142.zip",
+  "releaseNotes": "OTA v142 unifies Social Intelligence focus and canonical lessons under one reader, fixes typography and model alignment, removes the duplicate focus reader, and includes the upgraded attraction mastery engine."
 }
