@@ -1,5 +1,5 @@
 {
-  "version": 154,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v154.zip",
-  "releaseNotes": "OTA v154 publishes the final Attraction V3 lesson IA with the React Native font-weight typecheck fix, improved typography and hierarchy, Example → Contrast → Why teaching, dedicated slow AI Coach, and Learn → Coach → Practice → Apply flow."
+  "version": 160,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v160.zip",
+  "releaseNotes": "OTA v160 publishes the Attraction V3 adaptive mastery bridge after fixing the React Native ScrollView ref typecheck. See the Doors supports short completed-lesson calibration, AI Coach emits structured EVX1 mastery results, and EvolveX can import Coach evidence and next-focus data for adaptive recommendations."
 }
