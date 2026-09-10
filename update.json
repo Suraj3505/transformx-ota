@@ -1,5 +1,5 @@
 {
-  "version": 161,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v161.zip",
-  "releaseNotes": "OTA v161 makes Attraction V3 Coach mastery results one-tap copyable. Normal AI Coach and completed-lesson calibration now render the final EVX1 result in its own copyable block for easy import back into EvolveX."
+  "version": 162,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v162.zip",
+  "releaseNotes": "OTA v162 merges Attraction V3 Game Lab into the lesson flow so starting Game Lab launches the ChatGPT handoff directly and returns to the lesson without the intermediate landing screen."
 }
