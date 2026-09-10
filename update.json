@@ -1,5 +1,5 @@
 {
-  "version": 160,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v160.zip",
-  "releaseNotes": "OTA v160 publishes the Attraction V3 adaptive mastery bridge after fixing the React Native ScrollView ref typecheck. See the Doors supports short completed-lesson calibration, AI Coach emits structured EVX1 mastery results, and EvolveX can import Coach evidence and next-focus data for adaptive recommendations."
+  "version": 161,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v161.zip",
+  "releaseNotes": "OTA v161 makes Attraction V3 Coach mastery results one-tap copyable. Normal AI Coach and completed-lesson calibration now render the final EVX1 result in its own copyable block for easy import back into EvolveX."
 }
