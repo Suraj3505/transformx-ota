@@ -1,5 +1,5 @@
 {
-  "version": 162,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v162.zip",
-  "releaseNotes": "OTA v162 merges Attraction V3 Game Lab into the lesson flow so starting Game Lab launches the ChatGPT handoff directly and returns to the lesson without the intermediate landing screen."
+  "version": 163,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v163.zip",
+  "releaseNotes": "OTA v163 completes the Attraction V3 learner-flow cleanup: adds a dedicated Curriculum view, simplifies lessons to Learn → Coach → Game Lab → Apply, keeps Practice as optional targeted remediation, and updates adaptive recommendations to use Coach results, Game Lab evidence, field evidence, and delayed retrieval."
 }
