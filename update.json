@@ -1,5 +1,5 @@
 {
-  "version": 163,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v163.zip",
-  "releaseNotes": "OTA v163 completes the Attraction V3 learner-flow cleanup: adds a dedicated Curriculum view, simplifies lessons to Learn → Coach → Game Lab → Apply, keeps Practice as optional targeted remediation, and updates adaptive recommendations to use Coach results, Game Lab evidence, field evidence, and delayed retrieval."
+  "version": 164,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v164.zip",
+  "releaseNotes": "OTA v164 publishes the latest Attraction V3 learner-flow updates, including the streamlined Learn → Coach → Game Lab → Apply journey, adaptive recommendations, curriculum navigation, and optional targeted remediation."
 }
