@@ -1,5 +1,5 @@
 {
-  "version": 166,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v166.zip",
-  "releaseNotes": "OTA v166 adds the EvolveX Life AI prompt engine, generating context-aware action plans for bucket-list experiences using location, timing, budget, transport and other live constraints."
+  "version": 168,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v168.zip",
+  "releaseNotes": "OTA v168 fixes the Life AI planner UX by opening it as a bottom-sheet modal over the current screen, with typecheck-clean mission card and modal styling."
 }
