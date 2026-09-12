@@ -1,5 +1,5 @@
 {
-  "version": 168,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v168.zip",
-  "releaseNotes": "OTA v168 fixes the Life AI planner UX by opening it as a bottom-sheet modal over the current screen, with typecheck-clean mission card and modal styling."
+  "version": 169,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v169.zip",
+  "releaseNotes": "OTA v169 publishes the latest transformation-app state, including the streamlined GitHub Actions setup with OTA Publish as the only remaining workflow."
 }
