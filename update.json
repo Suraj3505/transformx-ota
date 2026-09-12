@@ -1,5 +1,5 @@
 {
-  "version": 165,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v165.zip",
-  "releaseNotes": "OTA v165 introduces EvolveX Life V1 with the XS–XL bucket list, Someday/Planning/Lived progression, completion stories, feelings and keepsake notes, plus Life Book progress in Programs."
+  "version": 166,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v166.zip",
+  "releaseNotes": "OTA v166 adds the EvolveX Life AI prompt engine, generating context-aware action plans for bucket-list experiences using location, timing, budget, transport and other live constraints."
 }
