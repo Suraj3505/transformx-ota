@@ -1,5 +1,5 @@
 {
-  "version": 169,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v169.zip",
-  "releaseNotes": "OTA v169 publishes the latest transformation-app state, including the streamlined GitHub Actions setup with OTA Publish as the only remaining workflow."
+  "version": 170,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/Suraj3505/transformx-ota/main/android/transformx-android-v170.zip",
+  "releaseNotes": "OTA v170 updates the dashboard hero from “Own today.” to “Own life.”"
 }
